@@ -1,0 +1,12 @@
+
+html {
+
+  font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+  color: #fff;
+  font-size: 1.1em;
+  line-height: 1.2;
+}
+body {
+  margin-top: 600px;
+  background: #141414;
+}
